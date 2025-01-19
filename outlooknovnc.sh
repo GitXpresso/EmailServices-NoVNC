@@ -4,7 +4,7 @@ sudo apt update
 echo "installing required packages"
 sudo apt install -y wget novnc websockify tigervnc-standalone-server tar openbox tilix
 cd ~/
-wget https://github.com/julian-alarcon/prospect-mail/releases/download/v0.5.4/prospect-mail-0.5.4-arm64.tar.gz && tar -xvf prospect-mail-0.5.4-arm64.tar.gz -C ~/ && sudo rm -rf outlook-for-linux-1.3.13.tar.gz && sudo mv -f ~/prospect-mail outlook
+wget https://github.com/julian-alarcon/prospect-mail/releases/download/v0.5.4/prospect-mail-0.5.4-arm64.tar.gz && tar -xvf prospect-mail-0.5.4-arm64.tar.gz -C ~/ && sudo rm -rf outlook-for-linux-1.3.13.tar.gz && sudo mv -f ~/prospect-mail-0.5.4-arm64 outlook
 tigervncserver  -SecurityTypes none  --I-KNOW-THIS-IS-INSECURE  -xstartup /usr/bin/openbox -geometry 1366x768 -localhost no :0
 websockify -D --web=/usr/share/novnc/  --cert=~/linux-novnc/novnc.pem 6080 localhost:5900
 export DISPLAY=:0
