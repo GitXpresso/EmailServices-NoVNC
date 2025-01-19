@@ -1,0 +1,1 @@
+wget https://github.com/timche/gmail-desktop/releases/download/v2.25.3/gmail-desktop-2.25.3-linux.tar.bz2 && sudo tar -xvf gmail-desktop-2.25.3-linux.tar.bz2 -C ~/ && sudo rm -rf gmail-desktop-2.25.3-linux.tar.bz2   
