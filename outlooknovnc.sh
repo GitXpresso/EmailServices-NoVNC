@@ -1,1 +1,1 @@
-wget https://github.com/julian-alarcon/prospect-mail/releases/download/v1.3.13/prospect-mail_1.3.13_arm64.deb && sudo apt install -y ./prospect-mail_1.3.13_arm64.deb
+wget https://github.com/julian-alarcon/prospect-mail/releases/download/v1.3.13/outlook-for-linux-1.3.13.tar.gz && tar -xvf outlook-for-linux-1.3.13.tar.gz -C ~/ && sudo rm -rf outlook-for-linux-1.3.13.tar.gz
