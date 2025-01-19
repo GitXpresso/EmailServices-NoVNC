@@ -25,9 +25,9 @@ Every email app that supports linux and `--display=:0` works with installed brow
     <img src=" " alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Outlook</h3>
+  <h3 align="center">Gmail</h3>
 
-  <p align="center"> </p>
+  <p align="center">Gmail is the email service provided by Google./p>
        
    <br/>
 </div>
