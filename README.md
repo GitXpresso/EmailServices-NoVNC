@@ -37,6 +37,13 @@ Every email app that supports linux and `--display=:0` works with installed brow
 ```
 sudo apt install curl
 ```
+### Run Gmail NoVNC using Curl
+```
+curl -fsSL https://raw.githubusercontent.com/GitXpresso/EmailServices-NoVNC/refs/heads/main/gmailnovnc.sh | bash
+```
+## What Gmail Looks like
+Image has not been added yet
+
 # Outlook NoVNC
 
 <br/>
@@ -56,4 +63,12 @@ sudo apt install curl
 ### Install Curl if you don't already have it
 ```
 sudo apt install curl
+```
+### Install Curl if you don't already have it
+```
+sudo apt install curl
+```
+### Run Gmail NoVNC using Curl
+```
+curl -fsSL https://raw.githubusercontent.com/GitXpresso/EmailServices-NoVNC/refs/heads/main/outlooknovnc.sh | bash
 ```
