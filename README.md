@@ -21,8 +21,8 @@ Every email app that supports linux and `--display=:0` works with installed brow
 
 <br/>
 <div align="center">
-  <a href="https://gmail.com/">
-    <img src=" " alt="Logo" width="150" height="150">
+  <a href="https://github.com/timche/gmail-desktop">
+    <img src="https://raw.githubusercontent.com/timche/gmail-desktop/refs/heads/main/media/icon.svg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Gmail</h3>
